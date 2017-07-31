@@ -26,3 +26,21 @@
    - Bad examples:
      1. Add the renew password reminder feature.
      2. Add the newsletter signup.
+
+#### The art of branching - GitHub flow
+
+ - Anything in the `master` branch is deployable
+   - There are no `hotfix`, `develop`, or other particular branches
+   - Bug fixes, new implementation, and so on are constantly merged onto the `master` branch
+   - You never push into this branch
+ - Creating descriptive branches off the master
+   - You always branch from the `master` branch
+   - To better identify them, you have to use descriptive names to get meaningful topic branches
+   - Proper names (note the use of dashes):
+     - `new-user-creation`
+     - `most-starred-repositories`
+ - Pushing to named branches constantly
+   - You push feature branches to the remote regularly, even if you are the only developer involved and interested in it
+ - Opening a pull request at any time
+ - Merging only after a pull request review
+ - Deploying immediately after review
