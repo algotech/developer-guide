@@ -44,3 +44,8 @@
  - Opening a pull request at any time
  - Merging only after a pull request review
  - Deploying immediately after review
+ 
+ #### Tools
+ 
+  - `.dotaliases` for git: https://github.com/algotech/dotaliases/blob/master/doc/bash/git_aliases.md
+  - SourceTree: https://www.sourcetreeapp.com/
