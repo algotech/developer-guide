@@ -20,12 +20,18 @@
    - Every commit is a sentence in the repository history
    - Always start with a capital letter and finish with a period
    - Use the imperative present tense (fix, add, implement) describing the change in a small subject sentence
-   - Good examples:
+   - Very good examples:
      1. Send an email to the user with a link to renew the password.
      2. Add the newsletter signup in homepage.
-   - Bad examples:
+     3. Fix default date issue in the appointment datepicker.
+   - Acceptable examples:
      1. Add the renew password reminder feature.
      2. Add the newsletter signup.
+     3. Fix appointment picker bugs
+   - Unacceptable examples:
+     1. Apply review comments
+     2. A minor issue
+     3. Solve a bug related to X
 
 #### The art of branching - GitHub flow
 
