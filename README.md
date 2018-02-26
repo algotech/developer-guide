@@ -1,8 +1,8 @@
 # coding-standards
 
-### Git
+## Git
 
-#### The art of committing
+### The art of committing
 
  - Commit content
    - A logically connected change
@@ -33,7 +33,7 @@
      2. A minor issue
      3. Solve a bug related to X
 
-#### The art of branching - GitHub flow
+### The art of branching - GitHub flow
 
  - Anything in the `master` branch is deployable
    - There are no `hotfix`, `develop`, or other particular branches
@@ -52,10 +52,12 @@
  - Merge only after a pull request review
  - Deploying immediately after review
  
- #### Tools
+ ### Tools
  
   - `.dotaliases` for git: https://github.com/algotech/dotaliases/blob/master/doc/bash/git_aliases.md
   - SourceTree: https://www.sourcetreeapp.com/
+
+## Code review
 
 ### Code review checklist
 
