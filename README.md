@@ -56,3 +56,30 @@
  
   - `.dotaliases` for git: https://github.com/algotech/dotaliases/blob/master/doc/bash/git_aliases.md
   - SourceTree: https://www.sourcetreeapp.com/
+
+### Code review checklist
+
+This code review checklist helps the code reviewers and software developers (during self code review) to gain expertise in the code review process.
+
+#### Architectural
+
+ - Is all the code easily understood?
+ - Is there any duplicate code?
+ - Is the code as modular as possible?
+ - Are all the queries in repositories?
+ - Can any of the code be replaced with library functions?
+ - Is most of the code in helpers/services preferably used via dependency injection?
+ - Are there any missing updates to the documentation/readme files?
+ 
+#### Security
+
+ - Are all data inputs checked (for the correct type, length, format, and range) and encoded?
+ - Are invalid parameter values handled?
+ - Are all data inputs validated against security threats such as SQL injections and Cross Site Scripting (XSS)?
+
+#### Coding
+ - Do all the varialbes say what they are for and not what data type they have?
+ - Do all the methods have a clear name for what they are going to do?
+ - Are there no hardcoded string/integer values?
+ - Is there no `Created by XYZ` line in the code? We use git for that.
+ 
