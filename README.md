@@ -1,4 +1,4 @@
-# coding-standards
+# Developer Guide
 
 ### Git
 
