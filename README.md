@@ -59,6 +59,16 @@
 
 ## Code review
 
+A guide for reviewing code and having your code reviewed.
+
+### When having your code reviewed
+ - Be grateful for the reviewer's suggestions.
+ - Don't take it personally. The review is of the code, not you!
+ - Assume the best intention from the reviewer's comments.
+ - Push commits based on earlier rounds of feedback as isolated commits to the branch. Do not squash until the branch is ready to merge. Reviewers should be able to read individual updates based on their earlier feedback.
+ - Seek to understand the reviewer's perspective.
+ - Try to respond to every comment.
+
 ### Code review checklist
 
 This code review checklist helps the code reviewers and software developers (during self code review) to gain expertise in the code review process.
