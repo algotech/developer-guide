@@ -69,6 +69,12 @@ A guide for reviewing code and having your code reviewed.
  - Seek to understand the reviewer's perspective.
  - Try to respond to every comment.
 
+### When reviewing code
+ - Understand why the change is necessary (you should at least read the ticket).
+ - Identify ways to simplify the code while still solving the problem.
+ - Seek to understand the author's perspective.
+ - Offer alternative implementations, but assume the author already considered them.
+
 ### Code review checklist
 
 This code review checklist helps the code reviewers and software developers (during self code review) to gain expertise in the code review process.
@@ -94,4 +100,3 @@ This code review checklist helps the code reviewers and software developers (dur
  - Do all the methods have a clear name for what they are going to do?
  - Are there no hardcoded string/integer values?
  - Is there no `Created by XYZ` line in the code? We use git for that.
- 
