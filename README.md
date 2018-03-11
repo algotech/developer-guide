@@ -85,7 +85,7 @@ This code review checklist helps the code reviewers and software developers (dur
 
 #### Architectural
 
- - Is all the code easily understood?
+ - Is all the code easily understandable?
  - Is there any duplicate code?
  - Is the code as modular as possible?
  - Are all the queries in repositories?
@@ -104,4 +104,4 @@ This code review checklist helps the code reviewers and software developers (dur
  - Do all the varialbes say what they are for and not what data type they have?
  - Do all the methods have a clear name for what they are going to do?
  - Are there no hardcoded string/integer values?
- - Is there no `Created by XYZ` line in the code? We use git for that.
+ - Is there no code ownership comment (like `Created by X`) in the code? We use Git for that.
