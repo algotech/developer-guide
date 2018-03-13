@@ -88,10 +88,10 @@ This code review checklist helps the code reviewers and software developers (dur
  - Is all the code easily understandable?
  - Is there any duplicate code?
  - Is the code as modular as possible?
- - Are all the queries in repositories?
  - Can any of the code be replaced with library functions?
- - Is most of the code in helpers/services preferably used via dependency injection?
+ - Is most of the code in helpers/services/managers/repositories?
  - Are there any missing updates to the documentation/readme files?
+ - Are all the necessary tests created according to the project guidelines?
  
 #### Security
 
@@ -103,5 +103,5 @@ This code review checklist helps the code reviewers and software developers (dur
 
  - Do all the varialbes say what they are for and not what data type they have?
  - Do all the methods have a clear name for what they are going to do?
- - Are there no hardcoded string/integer values?
- - Is there no code ownership comment (like `Created by X`) in the code? We use Git for that.
+ - Are there any hardcoded string/integer values?
+ - Is there any code ownership comment (like `Created by X`) in the code? We use Git for that.
