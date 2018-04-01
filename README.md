@@ -85,7 +85,7 @@ This code review checklist helps the code reviewers and software developers (dur
 
 #### Architectural
 
- - Is all the code easily understandable?
+ - Is all the code easy to understand?
  - Is there any duplicate code?
  - Is the code as modular as possible?
  - Can any of the code be replaced with library functions?
@@ -95,7 +95,7 @@ This code review checklist helps the code reviewers and software developers (dur
  
 #### Security
 
- - Are all data inputs checked (for the correct type, length, format, and range) and encoded?
+ - Are all data inputs checked for the correct type, length, format and range?
  - Are invalid parameter values handled?
  - Are all data inputs validated against security threats such as SQL injections and Cross Site Scripting (XSS)?
 
