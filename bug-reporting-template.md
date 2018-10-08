@@ -5,8 +5,8 @@
 
 * step 1:
   * Form data (if applicable):
-* step 2
-	* Form data (if applicable):
+* step 2:
+  * Form data (if applicable):
 * …
 
 #### Expected behaviour
