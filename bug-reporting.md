@@ -54,7 +54,12 @@ Screenshots, log files, error messages. If the description is not explicit as to
 
 ## Miscellaneous issue reporting best practices
 * attach correct labels, including realistic priority labels. Do not mark all bugs as highest priority, nor all lowest, but keep a sane balance.
-* make sure you use the correct Kanban column on the board and labels such as “question”, “help needed”, “enhancement”, “quickfix” etc. 
+* make sure you use the correct Kanban column on the board and labels such as “question”, “help needed”, “enhancement”, “quickfix” etc.
 * tag and assign colleagues accordingly
 * follow-up with a comment if the bug is ignored
 * etc.
+
+## Template
+A bug reporting template following these guidelines can be found here:
+
+ - [Bug reporting template](bug-reporting-template.md)
