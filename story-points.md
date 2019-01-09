@@ -9,7 +9,7 @@
  - Using points is one version of what is often called "Relative sizing".
  - The goal is to group things of similar overall size rather than to pursue a highly precise estimate.
  - Most uses of story point estimation limit you to the lower end of the Fibonacci series:
- 1, 2, 3, 5, 8, 13 
+ 1, 2, 3, 5, 8, 13.
 
 ### How to estimate
 
@@ -42,3 +42,7 @@ these tasks by the amount of effort, not by the amount of time:
  - 3 - Hard
  - 5 - Very Hard
  - 8 - Really Hard and Complex
+ 
+To make things easier and more accurate, it helps if there is only one person that estimates all the
+tasks at the beginning. Once everybody understands the actual "relative sizing scale", then anybody
+can estimate the tasks. It is important to note that bugs should not be estimated.
