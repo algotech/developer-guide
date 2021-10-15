@@ -3,7 +3,7 @@
 - [High Level Structure](#high-level-structure)
 - [Folder and File Names](#folder-and-file-names)
 - [Components](#components)
-- [Imports & Exports](#imports-exports)
+- [Imports & Exports](#imports--exports)
 - [Routing](#routing)
 - [Forms](#forms)
 - [???](#???)
