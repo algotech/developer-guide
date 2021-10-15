@@ -103,7 +103,7 @@ The Component Folder is composed by multiple component files. Each component fil
 
 All the component should be function components. For defining components, the key word `function` should be used instead of arrow functions.
 
-# Import & Exports
+# Imports & Exports
 
 ## Imports
 The imports section of every file can be divided into three groups.
